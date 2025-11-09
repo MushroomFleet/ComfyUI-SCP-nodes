@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "default": "/var/www/html/images/",
+    "portfolio": "/home/SCPuser/portfolio/images/",
+    "testing": "/tmp/comfyui/test/",
+    "production": "/var/www/production/gallery/",
+    "backup": "/mnt/backup/images/"
+  }
+}
